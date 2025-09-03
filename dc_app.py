@@ -8,8 +8,8 @@ import json
 
 # Page configuration
 st.set_page_config(
-    page_title="AI Data Catalog - Sample Data",
-    page_icon="📊",
+    page_title="STARAX AI Data Catalog - Sample Data",
+    page_icon="StarAX",
     layout="wide",
     initial_sidebar_state="expanded"
 )
