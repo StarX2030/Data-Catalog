@@ -21,7 +21,7 @@ if 'tables_info' not in st.session_state:
     st.session_state.tables_info = {}
 
 # App title and description
-st.title("🤖 AI-Powered Data Catalog Assistant")
+st.title("StarAX - AI-Powered Data Catalog Assistant")
 st.markdown("""
 This tool demonstrates an AI-powered data catalog using generated sample data. 
 You can explore all features without needing a real database connection.
